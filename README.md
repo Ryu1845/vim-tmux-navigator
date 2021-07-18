@@ -1,6 +1,8 @@
 Vim Tmux Navigator
 ==================
 
+**BÉPO ver**
+
 This plugin is a repackaging of [Mislav Marohnić's](https://mislav.net/) tmux-navigator
 configuration described in [this gist][]. When combined with a set of tmux
 key bindings, the plugin will allow you to navigate seamlessly between
